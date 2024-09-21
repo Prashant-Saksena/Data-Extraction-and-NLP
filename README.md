@@ -1,5 +1,5 @@
 # Data-Extraction-and-NLP
-The objective of this assignment is to extract textual data articles from the given URL &amp; perform text analysis to compute variables.
+The objective of this project is to extract textual data articles from the given URL & perform text analysis to compute variables.
 
 **Objective document** - attached
 
